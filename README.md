@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jayandra 👋</h1>
+<h1 align="center">Hi there, I'm Jayandra Thapa 👋</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayandrathapachhetri&label=Profile%20views&color=0e75b6&style=flat" alt="jayandrathapachhetri" /> </p>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Django Framework,**
 
-- 👯 I’m looking to collaborate on **with other developers**
+- 👯 I’m looking to collaborate **with other developers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jayandra thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayandra thapa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/the-jayandrathapa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayandra thapa" height="30" width="40" /></a>
 <a href="https://discord.gg/Ghost mode#9225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ghost mode#9225" height="30" width="40" /></a>
 </p>
 
