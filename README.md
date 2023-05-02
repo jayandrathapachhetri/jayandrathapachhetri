@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **frontend developer and Graphics Design,**
 
-- 🌱 I’m currently learning **Django Framework,**
+- 🌱 I’m currently learning **Python & Django Framework,**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
