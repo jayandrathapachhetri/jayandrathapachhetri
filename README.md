@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayandrathapachhetri" alt="jayandrathapachhetri" /></a> </p>
 
-- 🔭 I’m currently working on **frontend developer and Graphics Design,**
+- 🔭 I’m currently working on **frontend developer**
 
-- 🌱 I’m currently learning **Python & Django Framework,**
+- 🌱 I’m currently learning **React Framework,**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
